@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Sep 01 19:36:59 GMT 2022","Thu Sep 01 19:36:59 GMT 2022","35","","guru.qa.LabelTest","","guru.qa.LabelTest","testStaticLabels","Создание Issue для авторизованного пользователя",""
+"passed","Thu Sep 01 19:37:11 GMT 2022","Thu Sep 01 19:37:13 GMT 2022","2574","","guru.qa.StepsTest","","guru.qa.StepsTest","testAnnotatedStep","Проверка Issue для неавторизованного пользователя",""
+"passed","Thu Sep 01 19:37:07 GMT 2022","Thu Sep 01 19:37:11 GMT 2022","3266","","guru.qa.SelenideTest","","guru.qa.SelenideTest","testIssueSearch","testIssueSearch()",""
+"passed","Thu Sep 01 19:36:59 GMT 2022","Thu Sep 01 19:37:07 GMT 2022","8123","","guru.qa.LambdaTest","","guru.qa.LambdaTest","testIssueSearch","Проверка Issue для неавторизованного пользователя",""
