@@ -1,0 +1,1 @@
+{"uuid":"63f145d2-4ecd-4d0e-bf1c-79c29e929a95","name":"LambdaTest","children":["6a3ca54f-e3a1-4b23-b46c-5aa3c0ed5e92"],"befores":[{"name":"configure","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1662060109220,"stop":1662060109235}],"afters":[],"start":1662060109206,"stop":1662060118530}

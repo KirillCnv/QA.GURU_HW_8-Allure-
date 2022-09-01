@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="guru.qa.LabelTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-09-01T19:21:49" hostname="DESKTOP-I30F35D" time="0.121">
+  <properties/>
+  <testcase name="Создание Issue для авторизованного пользователя" classname="guru.qa.LabelTest" time="0.121"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

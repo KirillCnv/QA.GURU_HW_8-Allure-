@@ -1,0 +1,12 @@
+guru/qa/WebSteps.java
+ guru.qa.WebSteps
+guru/qa/SelenideTest.java
+ guru.qa.SelenideTest
+guru/qa/utils/ConfigTest.java
+ guru.qa.utils.ConfigTest
+guru/qa/LambdaTest.java
+ guru.qa.LambdaTest
+guru/qa/LabelTest.java
+ guru.qa.LabelTest
+guru/qa/StepsTest.java
+ guru.qa.StepsTest
