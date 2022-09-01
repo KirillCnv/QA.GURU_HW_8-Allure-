@@ -3,6 +3,7 @@ package guru.qa;
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.SelenideElement;
 import com.codeborne.selenide.logevents.SelenideLogger;
+import guru.qa.utils.ConfigTest;
 import io.qameta.allure.*;
 import io.qameta.allure.selenide.AllureSelenide;
 import org.junit.jupiter.api.DisplayName;
@@ -13,7 +14,7 @@ import static com.codeborne.selenide.Selenide.*;
 import static io.qameta.allure.Allure.step;
 import static org.openqa.selenium.By.linkText;
 
-public class LambdaTest {
+public class LambdaTest extends ConfigTest {
     private static final String REPOSITORY = "eroshenkoam/allure-example";
     private static final int ISSUE = 80;
 
